@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.login",
+  "startScene": "f9374ca4-ff91-4f5e-922c-ff1de600c33d",
+  "title": "login",
+  "webOrientation": "auto"
+}

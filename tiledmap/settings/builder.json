@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.tiledmap",
+  "startScene": "b12630b5-b062-4f03-97b5-fcfabc0e19ac",
+  "title": "tiledmap",
+  "webOrientation": "auto"
+}

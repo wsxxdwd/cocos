@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="96" tileheight="47" nextobjectid="1">
+ <tileset firstgid="1" name="grass" tilewidth="96" tileheight="47" tilecount="1" columns="1">
+  <image source="grass.png" width="96" height="47"/>
+ </tileset>
+ <tileset firstgid="2" name="water" tilewidth="96" tileheight="47" tilecount="1" columns="1">
+  <image source="water.png" width="96" height="47"/>
+ </tileset>
+ <tileset firstgid="3" name="1" tilewidth="32" tileheight="32" tilecount="380" columns="20">
+  <image source="1.jpg" width="642" height="623"/>
+ </tileset>
+ <layer name="ground" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFgwYDAFB4AGU=
+  </data>
+ </layer>
+ <layer name="water" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA9YIJiYtWRopZWbiFHPSnux2U2ABWIACE=
+  </data>
+ </layer>
+</map>
